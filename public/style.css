@@ -3,5 +3,10 @@ body {
 }
 
 h1{
-    border-color: aliceblue 2px solid;
+    border-color: fuchsia 2px solid;
+}
+
+.parrafo{
+    color: royalblue;
+    padding: 50px auto;
 }
